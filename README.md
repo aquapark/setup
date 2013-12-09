@@ -8,7 +8,7 @@ follows:
 cd $HOME
 sudo apt-get install -y git-core
 git clone https://github.com/aquapark/setup.git
-./setup/setup.sh   
+sudo ./setup/setup.sh   
 ```
 
 See also http://github.com/startup-class/dotfiles and
